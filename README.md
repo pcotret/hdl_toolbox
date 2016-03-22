@@ -9,7 +9,7 @@ Some basic components that may be useful in the future, a few scripts/notes abou
 
 ## Components:
 * alu: a simple ALU.
-* bcd_counter: a modulo-1 counter with asynchronous reser and enable signal.
+* bcd_counter: a modulo-10 counter with asynchronous reset and enable signal.
 * gates: a simple component to illustrate the difference between combinatorial logic and clocked process.
 * mux_2to1: a 2-to-1 multiplexer (4 solutions).
 * mux_4to1: a 4-to-1 multiplexer (4 solutions).
