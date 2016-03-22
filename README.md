@@ -7,7 +7,7 @@ Some basic components that may be useful in the future, a few scripts/notes abou
 * src => VHDL sources.
 * testbenches => Related testbenches.
 
-## Component:
+## Components:
 * alu: a simple ALU.
 * bcd_counter: a modulo-1 counter with asynchronous reser and enable signal.
 * gates: a simple component to illustrate the difference between combinatorial logic and clocked process.
