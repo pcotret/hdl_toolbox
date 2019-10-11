@@ -1,5 +1,3 @@
-# hdl_toolbox
-
 Some basic components that may be useful in the future, a few scripts/notes about tools...
 
 ## Three folders:

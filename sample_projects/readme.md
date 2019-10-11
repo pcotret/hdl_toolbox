@@ -1,0 +1,4 @@
+- `incr_button` : a button debouncer for the Zedboard. Counter with +/- buttons showing on the LEDs
+  - `BTNC` : pause/resume.
+  - `BTNR` : increment counter.
+  - `BTNL` : decrement counter.
