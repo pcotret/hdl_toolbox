@@ -1,3 +1,4 @@
 # hdl_toolbox
 
-See `sample_projects` or `basic_components` for more details
+- [Basic components in VHDL](./basic_components)
+- [VHDL vs. Verilog](./vhdl_vs_verilog): in the context of having a view of several HDLs, some components in both languages. May add other solutions later.
